@@ -4,9 +4,9 @@ I'm a developer interested in building practical projects and continuously impro
 
 ### 🚀 Currently Learning
 - Python
-- Data Analysis
 - Git & GitHub
-- Software Development
+- Pandas
+- Numpy
 
 ### 🛠️ What I'm Working On
 - Building practical Python applications.
