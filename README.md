@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Amir Mahdi 👋
 
-<!--
-**kiaamirmahdi-hash/kiaamirmahdi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building practical projects and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- Python
+- Data Analysis
+- Git & GitHub
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Working On
+- Building practical Python applications.
+- Improving my problem-solving and programming skills.
+- Exploring different areas of software development.
+
+### 📂 Featured Project
+- **[Inventory Manager](https://github.com/kiaamirmahdi-hash/Inventory-Manager)**  
+  A Python command-line inventory management system with JSON persistence, product management, and data validation.
+
+### 📫 Find Me
+- GitHub: [@kiaamirmahdi-hash](https://github.com/kiaamirmahdi-hash)
+
+---
+
+*Always learning, always building.*
