@@ -18,7 +18,7 @@ I'm a developer interested in building practical projects and continuously impro
   A Python command-line inventory management system with JSON persistence, product management, and data validation.
 
 ### 📫 Find Me
-- GitHub: [@kiaamirmahdi-hash](https://github.com/kiaamirmahdi-hash)
+- GitHub: [@mahdi-kd](https://github.com/mahdi-kd)
 
 ---
 
