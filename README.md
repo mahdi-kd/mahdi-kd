@@ -1,6 +1,6 @@
 # Hi, I'm Amir Mahdi 👋
 
-I'm a developer interested in building practical projects and continuously improving my programming skills.
+I'm an aspiring software developer interested in building practical applications, exploring data, and understanding how technology can solve real-world problems.
 
 ### 🚀 Currently Learning
 - Python
